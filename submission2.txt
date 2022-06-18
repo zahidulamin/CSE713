@@ -1,0 +1,20 @@
+Link to unlisted youtube video:
+https://www.youtube.com/watch?v=qJHm3CXC_TE
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1jmYpZ6lgx2WvCslSrKtBajHtqYMS7m38bmaA6svZjds/edit?usp=sharing
+
+Paper title:
+Sentiment-based Candidate Selection For NMT
+
+Link to the paper:
+
+
+Group Number:
+5
+
+Group Members:
+21266013 Moumita Khandaker  
+20266011 Debalina Barua 
+20266025 Mumtahina Ahsan 
+21166019 Hasan Muhammed Zahid Amin 
